@@ -1,0 +1,235 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{al2015multiple}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a526b10d2c9f2eac4c7c6d76ffb0e4aa}{%
+           family={Al\bibnamedelima Khatib},
+           familyi={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Ehab\bibnamedelima I},
+           giveni={E\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a116881449e429f626fb18cfcf343c9}{%
+           family={Jaradat},
+           familyi={J\bibinitperiod},
+           given={Mohammad\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77f2de11db93d0f052a2b8784707df52}{%
+           family={Abdel-Hafez},
+           familyi={A\bibinithyphendelim H\bibinitperiod},
+           given={Mamoun},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4af3ce6fe28f72c340762ac7d726fb93}{%
+           family={Roigari},
+           familyi={R\bibinitperiod},
+           given={Milad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{82d703a2c93ff52d9f3f6ceb4493ff58}
+      \strng{fullhash}{bea9f70709b58353cf7e0281524c5654}
+      \strng{bibnamehash}{bea9f70709b58353cf7e0281524c5654}
+      \strng{authorbibnamehash}{bea9f70709b58353cf7e0281524c5654}
+      \strng{authornamehash}{82d703a2c93ff52d9f3f6ceb4493ff58}
+      \strng{authorfullhash}{bea9f70709b58353cf7e0281524c5654}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 10th international symposium on mechatronics and its applications (ISMA)}
+      \field{title}{Multiple sensor fusion for mobile robot localization and navigation using the Extended Kalman Filter}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+    \endentry
+    \entry{duchovn2014path}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=eeae06d4fa7c2045af0fe87f7d066925}{%
+           family={Ducho{ň}},
+           familyi={D\bibinitperiod},
+           given={Franti{š}ek},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1bb92f178f89894f66313a6e12be2c8}{%
+           family={Babinec},
+           familyi={B\bibinitperiod},
+           given={Andrej},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=441f6646a5fe2fc9033a09715d78bb89}{%
+           family={Kajan},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51c041eea8bd150ead145f78b1acfaa5}{%
+           family={Be{ň}o},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03af46bf3929a206e368ef58b1a050fa}{%
+           family={Florek},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5ba4b55121667f6e1d7a4a6f7be233a}{%
+           family={Fico},
+           familyi={F\bibinitperiod},
+           given={Tom{á}{š}},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce2b2bbfcd81a7b5cb60e56e7097fcd0}{%
+           family={Juri{š}ica},
+           familyi={J\bibinitperiod},
+           given={Ladislav},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1d1ef09ce8b614ad84afb09b083c6281}
+      \strng{fullhash}{79e85dba28a91bffcf7baf81cefdb389}
+      \strng{bibnamehash}{79e85dba28a91bffcf7baf81cefdb389}
+      \strng{authorbibnamehash}{79e85dba28a91bffcf7baf81cefdb389}
+      \strng{authornamehash}{1d1ef09ce8b614ad84afb09b083c6281}
+      \strng{authorfullhash}{79e85dba28a91bffcf7baf81cefdb389}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Engineering}
+      \field{title}{Path planning with modified a star algorithm for a mobile robot}
+      \field{volume}{96}
+      \field{year}{2014}
+      \field{pages}{59\bibrangedash 69}
+      \range{pages}{11}
+    \endentry
+    \entry{kim2018introduction}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e0fbaf66e5bb058a7b2161fe0faa2871}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Youngjoo},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01f5cb1ac2762c1cf73c25a8ec0d7742}{%
+           family={Bang},
+           familyi={B\bibinitperiod},
+           given={Hyochoong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IntechOpen}%
+      }
+      \strng{namehash}{a498e77405cb26618a2e13d1157ab1a5}
+      \strng{fullhash}{a498e77405cb26618a2e13d1157ab1a5}
+      \strng{bibnamehash}{a498e77405cb26618a2e13d1157ab1a5}
+      \strng{authorbibnamehash}{a498e77405cb26618a2e13d1157ab1a5}
+      \strng{authornamehash}{a498e77405cb26618a2e13d1157ab1a5}
+      \strng{authorfullhash}{a498e77405cb26618a2e13d1157ab1a5}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Introduction and Implementations of the Kalman Filter}
+      \field{title}{Introduction to Kalman filter and its applications}
+      \field{volume}{1}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+    \endentry
+    \entry{zidani2015backstepping}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=14255ac10a9f8a22617c08a0893fb2fb}{%
+           family={Zidani},
+           familyi={Z\bibinitperiod},
+           given={Gh},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4461d02ab37b9f9fa02a97c6a0ab134a}{%
+           family={Drid},
+           familyi={D\bibinitperiod},
+           given={Said},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=646f2d4feaba14aff6f555508362a430}{%
+           family={Chrifi-Alaoui},
+           familyi={C\bibinithyphendelim A\bibinitperiod},
+           given={Larbi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6b269b726fca6170d2881ac09f8bc03}{%
+           family={Benmakhlouf},
+           familyi={B\bibinitperiod},
+           given={Abdeslam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=331add14e07182faa5a5ef79312cec7a}{%
+           family={Chaouch},
+           familyi={C\bibinitperiod},
+           given={Souad},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{589139123eea7a0faddd563f984697c2}
+      \strng{fullhash}{3600a1c000a32e058c940e1408d439a4}
+      \strng{bibnamehash}{3600a1c000a32e058c940e1408d439a4}
+      \strng{authorbibnamehash}{3600a1c000a32e058c940e1408d439a4}
+      \strng{authornamehash}{589139123eea7a0faddd563f984697c2}
+      \strng{authorfullhash}{3600a1c000a32e058c940e1408d439a4}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 4th International Conference on Systems and Control (ICSC)}
+      \field{title}{Backstepping controller for a wheeled mobile robot}
+      \field{year}{2015}
+      \field{pages}{443\bibrangedash 448}
+      \range{pages}{6}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
